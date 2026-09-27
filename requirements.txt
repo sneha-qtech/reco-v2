@@ -4,6 +4,8 @@ streamlit
 numpy
 Pillow
 flask
-tensorflow~=2.16.0
-tf-keras
 pandas
+huggingface_hub
+transformers
+torch
+torchvision
